@@ -1,6 +1,6 @@
 # Credit Card Default web app 
 
-###Technocolabs mini project
+### Technocolabs mini project
 
 - Credit card default app deployment on Streamlite using Heroku :
 
